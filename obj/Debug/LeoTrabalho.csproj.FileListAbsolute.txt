@@ -1,0 +1,7 @@
+E:\leo\LeoTrabalho\LeoTrabalho\bin\Debug\LeoTrabalho.exe.config
+E:\leo\LeoTrabalho\LeoTrabalho\bin\Debug\LeoTrabalho.exe
+E:\leo\LeoTrabalho\LeoTrabalho\bin\Debug\LeoTrabalho.pdb
+E:\leo\LeoTrabalho\LeoTrabalho\obj\Debug\LeoTrabalho.csproj.AssemblyReference.cache
+E:\leo\LeoTrabalho\LeoTrabalho\obj\Debug\LeoTrabalho.csproj.CoreCompileInputs.cache
+E:\leo\LeoTrabalho\LeoTrabalho\obj\Debug\LeoTrabalho.exe
+E:\leo\LeoTrabalho\LeoTrabalho\obj\Debug\LeoTrabalho.pdb
